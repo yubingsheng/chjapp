@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97D224D2-7D02-44EE-8DE2-A18593796377</string>
+	<key>IDESourceControlProjectName</key>
+	<string>chjapp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>30d0acc7-6cde-8891-fedc-ce57b7db7bff++53</key>
+		<string>https://github.com/yubingsheng/CHJ_IOS.git/trunk/chjapp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>chjapp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>30d0acc7-6cde-8891-fedc-ce57b7db7bff++53</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>30d0acc7-6cde-8891-fedc-ce57b7db7bff++53</key>
+		<string>https://github.com/yubingsheng/CHJ_IOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yubingsheng/CHJ_IOS.git/trunk/chjapp/chjapp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>30d0acc7-6cde-8891-fedc-ce57b7db7bff++53</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>30d0acc7-6cde-8891-fedc-ce57b7db7bff++53</string>
+			<key>IDESourceControlWCCName</key>
+			<string>chjapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
